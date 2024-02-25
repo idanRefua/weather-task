@@ -1,0 +1,29 @@
+.main-nav {
+  background: rgb(245, 160, 246);
+  background: linear-gradient(
+    103deg,
+    rgba(245, 160, 246, 1) 0%,
+    rgba(193, 118, 201, 1) 100%
+  );
+}
+
+.navbar-title {
+  font-size: 1.6em !important;
+  text-shadow: 1px 1px 1px black;
+  font-weight: bold;
+}
+.nav-link {
+  font-size: 1.3em !important;
+  font-weight: bold !important;
+  padding: 5px !important;
+}
+
+.bg-grey {
+  background-color: rgb(204, 204, 204) !important;
+  border-radius: 10px;
+}
+
+.nav-link:hover {
+  background: #c6c6c6;
+  border-radius: 10px;
+}
